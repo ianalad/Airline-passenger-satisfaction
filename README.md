@@ -6,6 +6,3 @@ Applying a variety of classification and clustering techniques on an extensive m
 
 The overall objectives of this work were to create a high efficiency predictive classification model and to identify the most important contributors to customer satisfaction and also to discover customer groups and their common traits to better target satisfaction improvement measures.
 
-## Authors
-
-Anh Duong,  Iana Ladygina, Paula Tanni,  Meredith Sigwarth  
